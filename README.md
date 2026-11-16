@@ -13,8 +13,6 @@
 
 Możesz też odpowiedzieć (reply) na cudzą wiadomość ze zdjęciem i wpisać `!gif` / `!efekt ...`.
 
-Napisz `67` → bot odpisze `wypierdalaj`.
-
 ## Uruchomienie
 1. https://discord.com/developers/applications → **New Application** → **Bot** → **Reset Token** (skopiuj token).
 2. W zakładce **Bot** włącz **MESSAGE CONTENT INTENT**.
